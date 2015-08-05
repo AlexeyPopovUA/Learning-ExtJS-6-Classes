@@ -9,4 +9,5 @@ If you want to build and run this application you need:
 2. Open console in root folder and run next comands:
 
     sencha app build
+
     sencha app watch
